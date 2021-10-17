@@ -1,2 +1,2 @@
 console.log('Hello world!')
-const age = 20
+const age = 100
